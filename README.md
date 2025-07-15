@@ -69,16 +69,3 @@
 
 ---
 
-### ⚙️ GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gowthaman-s&theme=flat&no-frame=true&column=3&margin-w=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthaman-s&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gowthaman-s" />
-</p>
